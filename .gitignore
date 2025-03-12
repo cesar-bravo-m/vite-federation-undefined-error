@@ -1,0 +1,6 @@
+host/node_modules
+remote/node_modules
+host/dist
+remote/dist
+host/build
+remote/build
